@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<variable name="title">
+			Prueba HTML++
+		</variable>
+		
+		<title>${title}</title>
+	</head>
+	<body>
+		<include src="header.htmlpp" />
+	</body>
+</html>
